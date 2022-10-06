@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\Дамил\Documents\GitHub\Panteleev_Damil_211_352\lab2\ConsoleApplication5.cpp(23,6): warning C4101: n: неиспользованная локальная переменная
+C:\Users\Дамил\Documents\GitHub\Panteleev_Damil_211_352\lab2\ConsoleApplication5.cpp(36,6): warning C4101: a: неиспользованная локальная переменная
+  ConsoleApplication5.vcxproj -> C:\Users\Дамил\Documents\GitHub\Panteleev_Damil_211_352\lab2\x64\Debug\ConsoleApplication5.exe

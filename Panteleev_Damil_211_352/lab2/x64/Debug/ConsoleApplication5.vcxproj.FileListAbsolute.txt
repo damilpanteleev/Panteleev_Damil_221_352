@@ -1,0 +1,2 @@
+C:\Users\Дамил\Documents\GitHub\Panteleev_Damil_211_352\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
+C:\Users\Дамил\Documents\GitHub\Panteleev_Damil_211_352\lab2\x64\Debug\ConsoleApplication5.exe
